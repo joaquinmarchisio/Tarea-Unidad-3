@@ -1,0 +1,42 @@
+/*Doy estilo al título*/
+.contenedor{
+    color: black;
+    background-color: yellow;
+    text-transform: uppercase;
+    font-size: 15px;
+
+    
+}
+/*Hago la imagen flotante para poder ubicarla*/
+.contenedor img{
+    width: 95px;
+    height: auto;
+    float: left;
+    margin-right: 20px;
+    background-color: yellow; 
+}
+
+.subtitulo{
+    font-size: 10px;
+    margin-top: 5px;
+}
+/*Doy estilo a los párrafos*/
+p{
+    font-style: italic;
+    font-weight: bold;
+}
+h3{
+    text-decoration-line: underline;
+    font-weight: bold;
+}
+
+/*Remarco algunos subtítulos*/
+.remarcar{
+    background-color: grey;
+    font-size: 20px;
+}
+
+li{
+    color: red;
+    font-weight: bold;
+}
