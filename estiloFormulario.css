@@ -1,0 +1,27 @@
+/* font-family: 'Open Sans', sans-serif; */
+/* font-family: 'Otomanopee One', sans-serif; */
+
+p{
+    font-family: 'Otomanopee One', sans-serif;
+}
+
+.bordesInput{
+    border-color: blue;
+}
+
+.caja{
+    background-color: burlywood;
+    border-radius: 5px;
+    border: 2px solid black;
+    width: max-content;
+    padding: 20px;
+}
+.botones{
+    border: 1px solid black;
+    border-radius: 5px;
+    font-size: 15px;
+    font-weight:bold ;
+    padding: 5px;
+    margin: 5px;
+
+}
